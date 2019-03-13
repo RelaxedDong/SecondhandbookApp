@@ -5,8 +5,8 @@ import oss2
 import os, sys
 from datetime import datetime
 
-auth = oss2.Auth('LTAIkjj8twuSyGfv','EI8KJb6iCpPAytr4mqd4u3Zm9fNsh9')
-
+auth = oss2.Auth('xxxx','secret_key')
+# 配置请看oss 文档
 bucket = oss2.Bucket(auth,'oss-cn-hangzhou.aliyuncs.com','secondbook')
 
 base_avater_url = 'https://secondbook.oss-cn-hangzhou.aliyuncs.com/avater/'
