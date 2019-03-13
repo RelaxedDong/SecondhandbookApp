@@ -43,3 +43,5 @@ for url in hrefs:
         db.session.add(book)
         db.session.commit()
         print(title,'保存成功')
+
+        
