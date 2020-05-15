@@ -9,7 +9,7 @@ Flask_Cors==3.0.7
 Flask_WTF==0.14.2
 itsdangerous==0.24
 Flask_RESTful==0.3.6
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 WTForms==2.1
 Flask==0.12.2
 oss2==2.4.0
