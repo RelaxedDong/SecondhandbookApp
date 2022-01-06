@@ -15,5 +15,5 @@ Flask==0.12.2
 oss2==2.4.0
 redis==2.10.6
 requests==2.18.4
-celery==4.2.1
+celery==5.2.2
 SQLAlchemy==1.2.5
